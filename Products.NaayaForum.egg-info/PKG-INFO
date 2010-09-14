@@ -1,0 +1,25 @@
+Metadata-Version: 1.0
+Name: Products.NaayaForum
+Version: 1.1dev-r15124
+Summary: Naaya Forum
+Home-page: http://naaya.eaudeweb.ro
+Author: Eau de Web
+Author-email: office@eaudeweb.ro
+License: MPL
+Description: Introduction
+        ============
+        
+        
+        
+        Changelog
+        =========
+        
+        1.1 (2010-07-21)
+        ----------------
+        
+        * Initial release
+        
+Keywords: naaya forum
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
